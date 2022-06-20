@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Clement Wong</h1>
+<h1 align="center">Hi 👋, I'm Vai</h1>
 <h3 align="center">Just an average software engineering student</h3>
 
-(https://c.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif)
+!(https://c.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stainedfate" alt="stainedfate" /></a> </p>
 
