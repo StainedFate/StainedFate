@@ -5,9 +5,9 @@
   <img src="https://c.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stainedfate" alt="stainedfate" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stainedfate" alt="stainedfate" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/stainedfate" target="blank"><img src="https://img.shields.io/twitter/follow/stainedfate?logo=twitter&style=for-the-badge" alt="stainedfate" /></a> </p>
+<p align="center"> <a href="https://twitter.com/stainedfate" target="blank"><img src="https://img.shields.io/twitter/follow/stainedfate?logo=twitter&style=for-the-badge" alt="stainedfate" /></a> </p>
 
 - 🔭 I’m currently working on **My FYP (Private)**
 
