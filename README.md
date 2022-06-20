@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Vai</h1>
+<h1 align="center">
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" width="24px" style="max-width:100%;">
+  </a>
+  𝗛𝗲𝘆 𝘁𝗵𝗲𝗿𝗲 𝗳𝗲𝗹𝗹𝗼𝘄 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿𝘀!🖤
+</h1>
+
+<h1 align="center">𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐩𝐫𝐨𝐟𝐢𝐥𝐞! I'm Vai 💛</h1>
 <h3 align="center">Just an average software engineering student</h3>
 
 <p align="center">
