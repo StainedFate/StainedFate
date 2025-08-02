@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **punishingvai@gmail.com**
 
-- ⚡ Side passions **Tech & Gaming**
+- ⚡ Side passions: **Tech & Gaming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
